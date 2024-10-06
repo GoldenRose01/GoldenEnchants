@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "goldenenchants",
+  "version": "${version}",
+  "name": "GoldenEnchants",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/goldenenchants/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "Golden_mods.goldenenchants.client.GoldenenchantsClient"
+    ],
+    "main": [
+      "Golden_mods.goldenenchants.Goldenenchants"
+    ]
+  },
+  "mixins": [
+    "goldenenchants.mixins.json",
+    {
+      "config": "goldenenchants.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
