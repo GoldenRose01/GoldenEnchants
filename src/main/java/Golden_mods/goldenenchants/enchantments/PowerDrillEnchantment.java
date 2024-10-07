@@ -5,6 +5,9 @@ import net.minecraft.enchantment.EnchantmentTarget;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
+import net.minecraft.entity.EquipmentSlot;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Items;
 
 public class PowerDrillEnchantment extends Enchantment {
     public PowerDrillEnchantment(Rarity weight, EnchantmentTarget target, EquipmentSlot... slots) {

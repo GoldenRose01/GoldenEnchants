@@ -3,6 +3,11 @@ package Golden_mods.goldenenchants.enchantments;
 import net.minecraft.enchantment.Enchantment;
 import net.minecraft.enchantment.EnchantmentTarget;
 import net.minecraft.entity.EquipmentSlot;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.SwordItem;
+import net.minecraft.item.AxeItem;
+import net.minecraft.item.TridentItem;
+import net.minecraft.entity.EquipmentSlot;
 
 public class QuickHitEnchantment extends Enchantment {
 

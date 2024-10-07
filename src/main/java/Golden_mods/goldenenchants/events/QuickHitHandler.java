@@ -1,7 +1,7 @@
 package Golden_mods.goldenenchants.events;
 
 import Golden_mods.goldenenchants.registry.ModEnchantments;
-import net.fabricmc.fabric.api.event.player.PlayerTickCallback;
+import net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents;
 import net.minecraft.entity.attribute.EntityAttributes;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.ItemStack;
