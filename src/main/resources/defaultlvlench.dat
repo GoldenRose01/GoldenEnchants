@@ -1,0 +1,35 @@
+# Vanilla Enchantments
+bane_of_arthropods: 5
+blast_protection: 4
+breach: 4
+density: 5
+depth_strider: 3
+efficiency: 5
+feather_falling: 4
+fire_aspect: 2
+fire_protection: 4
+fortune: 5
+frost_walker: 2
+impaling: 5
+knockback: 2
+looting: 3
+loyalty: 3
+luck_of_the_sea: 3
+lure: 3
+piercing: 4
+power: 5
+projectile_protection: 4
+protection: 4
+punch: 2
+quick_charge: 3
+riptide: 3
+smite: 5
+soul_speed: 3
+sweeping_edge: 3
+swift_sneak: 3
+thorns: 3
+unbreaking: 3
+wind_burst: 3
+
+# MyMod Enchantments
+quick_hit: 5
